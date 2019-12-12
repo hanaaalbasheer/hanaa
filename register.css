@@ -1,0 +1,37 @@
+.container{
+    margin: 50px auto;
+}
+#h2{
+    text-align: center;
+    color: hsl(0, 0%, 4%);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serifssss;
+    font-size: 30px;
+}
+
+#div1{
+    margin-left: 500px;
+    margin-top: 0px;
+  
+}
+.form{
+    width: 200px;
+    height: 200px;
+}
+.form input{
+    border-radius: 6px;
+    width: 350px;
+    height: 20px;
+    font-size: 15px;
+    padding: 15px;
+}
+#sgin{
+    color: white; 
+    background-color: black;
+    border-radius: 6px;
+    width: 388px;
+    height: 45px;
+    font-size: 15px;
+    border: 0px;
+    outline: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
